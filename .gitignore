@@ -1,3 +1,11 @@
+
+# Let's exclude our data files
+*.txt
+*.csv
+*.tsv
+*.zip
+*countries-of-the-world-2023
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
