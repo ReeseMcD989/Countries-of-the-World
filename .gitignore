@@ -4,7 +4,7 @@
 *.csv
 *.tsv
 *.zip
-*countries-of-the-world-2023
+countries-of-the-world-2023/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
