@@ -7,3 +7,7 @@ This repository holds a Python script that calls data from the Kaggle API, clean
 The smaller sets are then loaded into a SQL database using pgAdmin 4 via a SQL script. As of now, some of the analyses include regression, PCA, and K-means clustering.
 
 This work is far from complete, with thorough commentary/explanation, more modeling, more visualization, and hopefully more engineering/cloud integration elements to come.
+
+The ultimate goal of the work within this repository is to showcase my skills in as many facets of data science/engineering/analysis as possible using only one data set.
+
+It should hopefully be one of many projects like it to eventually manifest on my GitHub profile. Hope you enjoy!
