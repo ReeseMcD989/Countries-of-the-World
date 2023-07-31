@@ -10,4 +10,4 @@ This work is far from complete, with thorough commentary/explanation, more model
 
 The ultimate goal of the work within this repository is to showcase my skills in as many facets of data science/engineering/analysis as possible using only one data set.
 
-It should hopefully be one of many projects like it to eventually manifest on my GitHub profile. Hope you enjoy!
+It should hopefully be one of many projects like it to manifest on my GitHub profile. Hope you enjoy!
